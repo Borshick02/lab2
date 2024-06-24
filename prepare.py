@@ -55,4 +55,3 @@ def search(query, array):
         else:
             high = mid
     return low - 1
-

@@ -11,4 +11,3 @@ class BruteForceAlgorithm:
             if r.x1 <= x < r.x2 and r.y1 <= y < r.y2:
                 k += 1
         return k
-

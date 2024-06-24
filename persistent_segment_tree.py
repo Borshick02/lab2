@@ -68,4 +68,3 @@ class PersistentSegmentTree:
             return node.total + self.search(node.left_node, q)
         else:
             return node.total + self.search(node.right_node, q)
-
