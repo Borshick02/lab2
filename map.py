@@ -26,3 +26,4 @@ class MapAlgorithm:
                 return self.map[x][y]
         else:
             return 0
+
